@@ -2,6 +2,15 @@
 
 This repository contains three robotics-related projects implemented simulation tools, and custom components. Each project is organized into its own directory.
 
+## Prerequisites
+
+Follow the command below to install python packages needed in this project.
+
+```bash
+conda env create -f genesis_conda.yaml
+conda activate genesis_conda
+```
+
 ## Projects
 
 ### 1. Autonomous Driving (Prius URDF)
