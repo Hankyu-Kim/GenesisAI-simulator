@@ -58,5 +58,8 @@ A simple robot manipulator project that perform 'pick & place'.
 **Usage**:
 ```bash
 cd workspace
-python soft_robots.py
+python robot_arm.py
+
 ```
+**Video**:
+https://github.com/user-attachments/assets/36932280-38db-458d-93de-7698017fb026
