@@ -62,5 +62,4 @@ python robot_arm.py
 
 ```
 
-
-https://github.com/user-attachments/assets/36932280-38db-458d-93de-7698017fb026
+https://github.com/user-attachments/assets/86a97fae-6eda-48d6-84a3-65b13f2fa098
